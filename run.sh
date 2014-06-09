@@ -1,1 +1,1 @@
-LD_LIBRARY_PATH=./ ./main
+LD_LIBRARY_PATH=./ ./a.out
