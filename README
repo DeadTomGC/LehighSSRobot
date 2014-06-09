@@ -1,0 +1,8 @@
+This is the OPENI/NiTE section of the lehighSSrobot project
+
+You will need OPNNI and NITE in your documents folder and this in a projects folder in documents for this to compile
+To run, use ./run.sh
+
+to compile, use make 
+
+The current build is merely the UserViewer from the Nite demos
